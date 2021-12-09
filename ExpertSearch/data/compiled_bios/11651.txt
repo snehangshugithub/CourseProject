@@ -1,0 +1,1 @@
+University of Waterloo Central Authentication Service Username Password Forgot your password? Notify me before logging into other sites. The University of Waterloo Central Authentication Service (CAS) provides single sign-on access to authenticated sites. Ensure that you logout and exit your browser when finished. Help
