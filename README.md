@@ -12,6 +12,8 @@ Snehangshu Shankar Bhattacharjee (ssb8)
 Indranil Guha (iguha4)
 
 Link to final project report:
+https://github.com/snehangshugithub/CourseProject/blob/main/CS410%20Project%20Final%20Report.pdf
+
 
 Link to presentation video:
 
