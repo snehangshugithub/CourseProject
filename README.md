@@ -9,7 +9,7 @@ CS-410 Text Information System MCS-DS Program (Fall 2021)
 
 Team: JUEE
 
-Snehangshu Shankar Bhattacharjee (ssb8) 
+Snehangshu Shankar Bhattacharjee (ssb8),
 Indranil Guha (iguha4)
 
 
